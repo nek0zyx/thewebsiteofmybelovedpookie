@@ -1,0 +1,7 @@
+--2025-02-16 15:56:25--  https://media.discordapp.net/attachments/1175028024790499339/1340697652995686400/jade.jpg?ex=67b34d7d
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving media.discordapp.net (media.discordapp.net)... 162.159.128.232, 162.159.133.232, 162.159.130.232, ...
+Connecting to media.discordapp.net (media.discordapp.net)|162.159.128.232|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2025-02-16 15:56:25 ERROR 404: Not Found.
+
